@@ -9,5 +9,4 @@ NoiseCAM ([paper](https://arxiv.org/abs/2303.06151))
 * Tensorflow 2.0+
 
 ## Ackowledge
-use API from tf-keras-vis:
-https://github.com/keisen/tf-keras-vis
+use API from [tf-keras-vis](https://github.com/keisen/tf-keras-vis)
